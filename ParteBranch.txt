@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Rama colapso
 =======
 Rama colapso c
+>>>>>>> Stashed changes
+=======
+Rama colapso a
 >>>>>>> Stashed changes
