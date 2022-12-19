@@ -1,0 +1,4 @@
+﻿  example.cpp
+C:\Users\caral\Desktop\Programacion\Univesidad\Ingenieria\1_Skeleton\1_Skeleton\swalib-master\common\example.cpp(29,52): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\caral\Desktop\Programacion\Univesidad\Ingenieria\1_Skeleton\1_Skeleton\swalib-master\common\example.cpp(53,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  swalib_example.vcxproj -> C:\Users\caral\Desktop\Programacion\Univesidad\Ingenieria\1_Skeleton\1_Skeleton\swalib-master\swalib_example\Debug\swalib_example.exe
